@@ -20,5 +20,4 @@ class App extends React.Component{
 
 // using const
 //const App = () => <h1>Hello stateless</h1>
-
 export default App
