@@ -11,4 +11,4 @@ https://github.com/facebookincubator/create-react-app
 
 3. For trying out different app, make a copy of Appxxx.js into the App folder and re-name it as App.js
 
-4. Change the directory of import App from "../App.js" into "../App/App.js"
+4. Change the directory of import App from "./App.js" into "./App/App.js"
